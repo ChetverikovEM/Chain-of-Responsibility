@@ -9,4 +9,4 @@
 
 ## Структура
 
-![Структура](Assets\Image\structure.png)
+![Структура](image\structure.png)
